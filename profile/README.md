@@ -20,6 +20,14 @@
   <a href="mailto:hello@linedesk.ai"><b>Contact</b></a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/company/linedesk">LinkedIn</a> ·
+  <a href="https://x.com/linedeskai">X</a> ·
+  <a href="https://bsky.app/profile/linedesk.ai">Bluesky</a> ·
+  <a href="https://www.instagram.com/linedeskai">Instagram</a> ·
+  <a href="https://www.tiktok.com/@linedesk">TikTok</a>
+</p>
+
 <br>
 
 <p align="center"><sub>Linedesk is made by Sauerbier &amp; Gutberlet GmbH · <a href="https://linedesk.ai/legal">Legal notice</a> · <a href="https://linedesk.ai/privacy">Privacy</a></sub></p>
